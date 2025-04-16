@@ -1,0 +1,3 @@
+Commit #1: Tela de cadastro definida como tela principal
+
+Definida a tela de cadastro (CadastroVIEW) como a tela principal que será aberta ao iniciar o programa.
