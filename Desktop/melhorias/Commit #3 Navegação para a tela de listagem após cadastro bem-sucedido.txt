@@ -1,0 +1,3 @@
+
+Commit #3: Navegação para a tela de listagem após cadastro bem-sucedido
+Implementada a navegação automática para a tela de listagem de produtos após o cadastro de um novo
