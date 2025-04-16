@@ -1,0 +1,3 @@
+ Implementação da operação de salvar produto no banco de dados
+
+Implementada a operação `salvarProduto()` na classe `ProdutosDAO`. Esta operação insere os dados do produto no banco de dados.
