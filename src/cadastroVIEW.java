@@ -183,7 +183,10 @@ public class cadastroVIEW extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                System.out.println("Tela ");
+                System.out.println(" Atualização  ");
+                 System.out.println("Tela de cadastro definida como tela principal ");
+                 System.out.println("Exibição de mensagem de sucesso ou erro após o cadastro ");
+                 System.out.println(" Implementação da operação de salvar produto no banco de dados ");
                 new cadastroVIEW().setVisible(true);
             }
         });
